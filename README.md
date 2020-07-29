@@ -1,2 +1,2 @@
 # applikasi
-testing belajar repo in nambah data
+testing belajar repo ini nambah data
